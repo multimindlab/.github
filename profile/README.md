@@ -27,8 +27,8 @@
   <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors. Check our <a href="https://github.com/multimindlab/multimind-sdk/tree/develop/docs/TODO.md">TODO list</a> to see what's implemented and what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
 </div>
 
-
 [![💖 Support MultiMind SDK](https://img.shields.io/badge/💖_Support-MultiMind%20SDK-blueviolet?style=for-the-badge)](https://opencollective.com/multimind-sdk)
+[![🐦 Follow on X](https://img.shields.io/twitter/follow/multimindsdk?label=%F0%9F%90%A6%20Follow%20on%20X&style=for-the-badge&logo=x&logoColor=white)](https://x.com/multimindsdk)
 
 
 ## 🚀 Why MultiMind SDK?
