@@ -77,12 +77,6 @@ Forget silos. While others focus on chaining, agents, or retrieval alone, **Mult
 - **Task Orchestration**: Complex workflow management and prompt chaining
 - **Model Composition**: Protocol for combining multiple models and tools
 
-### 4. Framework Integrations
-
-- **LangChain**: Seamless integration with LangChain components
-- **CrewAI**: Support for multi-agent systems
-- **LiteLLM**: Unified model interface
-- **SuperAGI**: Advanced agent capabilities
 
 ## 🚀 Quick Start
 
