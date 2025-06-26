@@ -215,7 +215,10 @@ Your support will help fund:
 - 🌍 Community outreach and support
 - 🧪 Infrastructure, testing, and CI/CD
 
-👉 <a href="https://opencollective.com/multimind-sdk" aria-label="Join MultiMind SDK Community">Contribute here</a>
+# Visit our company Octilyon — Powering the Future of One Health
+We’re building OctilyData, a privacy-first platform unifying health data across human, animal, and environmental systems to enable secure, collaborative research.
+AI-ready. Regulation-proof. Built for impact.
+Learn more at www.octilyon.com
 
 ## 📝 License
 
