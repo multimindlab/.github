@@ -28,8 +28,8 @@
 ---
 
 
-> **MultiMind SDK** is an open-source, **model-agnostic AI orchestration framework** available in both **Python** and **JavaScript/TypeScript**, designed to empower developers to build multi-model, multi-agent systems effortlessly.
- > **MultiMind SDK** is a modular,  AI orchestration framework built for **developers**, **researchers**, and **AI builders**. It supports both **Python** and **JavaScript/TypeScript**, letting you compose intelligent multi-agent systems across LLMs like GPT-4, Claude, Mistral, LLaMA, and custom models.
+> **MultiMind SDK** is an open-source, **model-agnostic AI orchestration framework** available in both **Python** and **JavaScript**, designed to empower developers to build multi-model, multi-agent systems effortlessly.
+ > **MultiMind SDK** is a modular,  AI orchestration framework built for **developers**, **researchers**, and **AI builders**. It supports both **Python** and **JavaScript**, letting you compose intelligent multi-agent systems across LLMs like GPT-4, Claude, Mistral, LLaMA, and custom models.
 
 
 ---
@@ -41,7 +41,7 @@
 | 🔀 **ModelRouter**                | Dynamically switch between OpenAI, Claude, Gemini, Mistral, LLaMA, Ollama, Local models, or any API                                                    |
 | 🧠 **Multi-Agent DAG Engine**     | Chain agents using **graph-based logic** with planner-executor-judge loops                                                                             |
 | 🧩 **AI Building Blocks**         | Use prebuilt `Agent`, `Judge`, `Rewriter`, `Tool`, or build your own                                                                                   |
-| 🔌 **Dual SDKs**                  | Same power in **Python** and **JavaScript/TypeScript** (Node & browser)                                                                                |
+| 🔌 **Dual SDKs**                  | Same power in **Python** and **JavaScript** (Node & browser)                                                                                |
 | 🛠️ **Plug & Play Adapters**      | Easily integrate LLMs, RAG, vector stores, tools, or third-party APIs                                                                                  |
 | 🌍 **Web & Voice Ready**          | Power Chrome extensions, Web UIs, and voice agents (Whisper + TTS)                                                                                     |
 | 🧬 **Model-Agnostic Fine-Tuning** | LoRA / QLoRA / PEFT compatible CLI (coming soon)                                                                                                       |
@@ -70,7 +70,7 @@
 
 ## 🚀 Highlights
 
-- 🔄 **Cross-Language Support**: Available in **Python** and **JS/TS** (Node.js & browser environments)
+- 🔄 **Cross-Language Support**: Available in **Python** and **JS** (Node.js & browser environments)
 - 🧠 **Model-Agnostic**: Supports OpenAI, Claude, Mistral, Gemini, LLaMA, local LLMs, and custom APIs
 - 🕸️ **Agent Graphs**: Chain agents using DAG-based architecture with `ModelRouter`, `Judge`, and `Rewriter`
 - 🔌 **Pluggable Architecture**: Swap or combine models, routes, and tools dynamically
@@ -88,7 +88,7 @@
 pip install multimind-sdk
 ````
 
-### 🧰 JavaScript / TypeScript
+### 🧰 JavaScript 
 
 ```bash
 npm install multimind-sdk
@@ -124,7 +124,7 @@ agent = OpenAIAgent(model="gpt-4", api_key="...")
 response = agent.run("What's the capital of Germany?")
 ```
 
-#### TypeScript/JavaScript
+#### JavaScript
 
 ```ts
 import { OpenAIAgent } from 'multimind-sdk';
@@ -216,7 +216,7 @@ Your sponsorships go toward:
 # Python SDK
 git clone https://github.com/multimindlab/multimind-sdk
 
-# JS/TS SDK
+# JS SDK
 git clone https://github.com/multimindlab/multimind-sdk-js
 ```
 
