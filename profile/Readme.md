@@ -1,7 +1,7 @@
 <!--Add commentMore actions
-  MultiMind SDK - Unified AI Development Toolkit
-  MultiMind SDK - Unified AI Development Toolkit in development
-  Description: A powerful Python SDK for fine-tuning, RAG systems, and AI agent development
+  MultiMind SDK - Build AI Superpowers with One SDK
+  MultiMind SDK - MultiMind SDK - Build AI Superpowers with One SDK in development
+  Description: A powerful Javascript & Python SDK for fine-tuning, RAG systems, and AI agent development
   Keywords: AI development, fine-tuning, RAG, LLM, machine learning, Python SDK, LangChain, CrewAI, LiteLLM, SuperAGI
   Author: AI2Innovate Team
   Version: 0.1.0
@@ -12,8 +12,12 @@
   <img src="Logo-with-name-final2.png" alt="MultiMind SDK - Unified AI Development Toolkit Logo" width="320"/>
 </p>
 
+<div align="center">
+  <h2>🚧 Project Status: In Active Development 🚧</h2>
+  <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors.  what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
+</div>
 
-# 🌐 MultiMind SDK – Build AI Superpowers with One SDK: Agents, Models, Context, Orchestration. Anywhere. Framework for Python & JavaScript/TypeScript
+# 🌐 MultiMind SDK – Build AI Superpowers with One SDK: Agents, Models, Context, Orchestration. Anywhere. Framework for Python & JavaScript
 
 
 ![Python SDK](https://img.shields.io/pypi/v/multimind-sdk?label=Python%20SDK)
