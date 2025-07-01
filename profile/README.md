@@ -1,5 +1,5 @@
 <!--
-  MultiMind SDK - Unified AI Development Toolkit
+  MultiMind SDK - Unified AI Development Toolkit in development
   Description: A powerful Python SDK for fine-tuning, RAG systems, and AI agent development
   Keywords: AI development, fine-tuning, RAG, LLM, machine learning, Python SDK, LangChain, CrewAI, LiteLLM, SuperAGI
   Author: AI2Innovate Team
