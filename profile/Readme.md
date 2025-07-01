@@ -12,20 +12,23 @@
   <img src="Logo-with-name-final2.png" alt="MultiMind SDK - Unified AI Development Toolkit Logo" width="320"/>
 </p>
 
-<div align="center">
-  <h2>🚧 Project Status: In Active Development 🚧</h2>
-  <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors.  what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
-</div>
 
 # 🌐 MultiMind SDK – Build AI Superpowers with One SDK: Agents, Models, Context, Orchestration. Anywhere. Framework for Python & JavaScript
 
 
 ![Python SDK](https://img.shields.io/pypi/v/multimind-sdk?label=Python%20SDK)
-![NPM SDK](https://img.shields.io/npm/v/multimind-sdk?label=JS/TS%20SDK)
+![NPM SDK](https://img.shields.io/npm/v/multimind-sdk?label=JS%20SDK)
 ![License](https://img.shields.io/github/license/multimindlab/multimind-sdk)
 
- **[multimind.dev](https://multimind.dev)** and the latest features in [MultiMind SDK (Python)](https://github.com/multimindlab/multimind-sdk) and [JS/TS SDK](https://github.com/multimindlab/multimind-sdk-js)
+ **[multimind.dev](https://multimind.dev)** and the latest features in [MultiMind SDK (Python)](https://github.com/multimindlab/multimind-sdk) and [JS SDK](https://github.com/multimindlab/multimind-sdk-js)
 ---
+
+
+<div align="center">
+  <h2>🚧 Project Status: In Active Development 🚧</h2>
+  <p>Join the future of AI development! We're actively building MultiMind SDK and looking for contributors.  what's coming next. Connect with our growing community on <a href="https://discord.gg/K64U65je7h" aria-label="Join MultiMind SDK Discord Community">Discord</a> to discuss ideas, get help, and contribute to the project.</p>
+</div>
+
 
 > **MultiMind SDK** is the first **unified orchestration layer** to let developers build, compose, and run intelligent workflows across **any AI model, any tool, any platform** — locally or in the cloud — using Python or JavaScript.
 
