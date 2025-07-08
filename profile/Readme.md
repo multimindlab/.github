@@ -13,8 +13,7 @@
 </p>
 
 
-# 🌐 MultiMind SDK – Build AI Superpowers with One SDK: Agents, Models, Context, Orchestration. Anywhere. Framework for Python & JavaScript
-
+# 🌐 MultiMind SDK – Build AI Superpowers with One SDK: Agents, Models, Context, Orchestration. Anywhere. EU-Built Framework for Python & JavaScript – Fine-Tune, Train, Deploy with Compliance.
 
 ![Python SDK](https://img.shields.io/pypi/v/multimind-sdk?label=Python%20SDK)
 ![NPM SDK](https://img.shields.io/npm/v/multimind-sdk?label=JS%20SDK)
