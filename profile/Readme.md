@@ -31,11 +31,12 @@
 
 
 > **MultiMind SDK** is the first **unified orchestration layer** to let developers build, compose, and run intelligent workflows across **any AI model, any tool, any platform** — locally or in the cloud — using Python or JavaScript.
-
+ **First EU based Compliance with fintuning, Multi Agent, Rag2.0, Memeory Types, MultiModel AI framework**.
 ---
 
 
 > **MultiMind SDK** is an open-source, **model-agnostic AI orchestration framework** available in both **Python** and **JavaScript**, designed to empower developers to build multi-model, multi-agent systems effortlessly.
+
  > **MultiMind SDK** is a modular,  AI orchestration framework built for **developers**, **researchers**, and **AI builders**. It supports both **Python** and **JavaScript**, letting you compose intelligent multi-agent systems across LLMs like GPT-4, Claude, Mistral, LLaMA, and custom models.
 
 
