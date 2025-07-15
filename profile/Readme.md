@@ -195,9 +195,9 @@ result = graph.run("Organize a webinar and invite speakers.")
 
 * 🧠 Blogs & Tutorials: [https://dev.to/multimindsdk](https://dev.to/multimindsdk)
 * 🐦 X (Twitter): [@MultiMindSDK](https://x.com/multimindsdk)
-* 💬 Reddit Community: [r/OpensourceAI](https://reddit.com/r/OpensourceAI)
+* 💬 Reddit Community: [r/OpensourceAI](https://reddit.com/r/opesourceai)
 
----
+--- 
 
 ## 💖 Support This Project
 
